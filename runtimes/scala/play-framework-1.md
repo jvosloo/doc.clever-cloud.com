@@ -31,7 +31,7 @@ variable (or by putting it in a file named `clevercloud/play1_version`).
 The `PLAY1_VERSION` environment variable can contain one of the following values:
 
 * `1.2` or `12` for **Play! 1.2**.
-* `1.3` or `12` for **Play! 1.3**.
+* `1.3` or `13` for **Play! 1.3**.
 * `1.4` or `14` for **Play! 1.4**.
 
 ## Play! configuration
